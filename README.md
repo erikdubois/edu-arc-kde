@@ -94,8 +94,20 @@ The Arc KDE theme is also available via the KDE Store [KDE Store](https://store.
 ## Issues
 To solve problems with rendering on NVIDIA cards, use [this solution](htps://github.com/PapirusDevelopmentTeam/materia-kde#known-issues)
 
-## Donate
+<!-- KIRO-FUNDING-FOOTER:START — managed by Kiro-HQ/cascade-readme-footer.sh -->
+## Help fund Kiro
 
+Everything I build here stays free and open — always. If Kiro or any of these
+tools have ever saved you time or taught you something, a small monthly
+contribution helps keep the work going. Donations target break-even, nothing
+more — the core always stays free for everyone.
+
+- GitHub Sponsors: https://github.com/sponsors/erikdubois
+- Patreon: https://www.patreon.com/c/kiroproject
+- YouTube memberships: https://www.youtube.com/@ErikDubois/join
+- Ko-fi: https://ko-fi.com/erikdubois
+- PayPal: https://www.paypal.me/erikdubois
+<!-- KIRO-FUNDING-FOOTER:END -->
 
 ## License
 
